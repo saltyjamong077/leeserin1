@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html lang="ko">
-
+<head>
+  <meta charset="UTF-8">
+  <title>전생연분</title>
   <style>
     body {
-      font-family: Jua, sans-serif;
+      font-family: Arial, sans-serif;
       background: #f5f5f5;
       margin: 0;
       padding: 0;
     }
-  
-<head>
-  <meta charset="UTF-8">
-<title>전생연분</title>
-
-    .container { max-width: 600px;
+    .container {
+      max-width: 600px;
       margin: 80px auto;
       background: white;
       padding: 40px;
       border-radius: 12px;
       box-shadow: 0 10px rgba(0,0,0,0.1);
-      text-align: center;}
-    h1 {margin-bottom: 10px;}
-    p {line-height: 1.6;}
-    
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      line-height: 1.6;
+    }    
   </style>
   
 </head>
