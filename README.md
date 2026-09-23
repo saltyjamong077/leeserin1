@@ -2,12 +2,8 @@
 <html lang="ko">
   
 <head>
-  <meta charset="UTF-8">
-
-body {
 <img src="![](https://raw.githubusercontent.com/saltyjamong077/Leeserin/refs/heads/main/ChatGPT%20Image%202026%EB%85%84%209%EC%9B%94%2023%EC%9D%BC%20%EC%98%A4%EC%A0%84%2009_37_13.png)" width="90%"></img>
-}
-
+  <meta charset="UTF-8">
 <title>이세린</title>
 
   <style>
@@ -25,12 +21,11 @@ body {
       border-radius: 12px;
       box-shadow: 0 10px rgba(0,0,0,0.1);
       text-align: center;}
-    
     h1 {margin-bottom: 10px;}
-    
     p {line-height: 1.6;}
     
   </style>
+  
 </head>
 <body>
 
